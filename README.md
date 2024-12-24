@@ -21,6 +21,10 @@ yarn add expo-drawer
 - **Flexible Drawer Content**: Easily add items, user information, and custom components.
 - **TypeScript Support**: Fully typed props for better developer experience.
 
+### Screenshots
+
+![Drawer Animation](./Screenshots.jpg)
+
 ---
 
 ## Usage
